@@ -19,3 +19,7 @@ highest = ratings.index(max(ratings))
 
 print("Highest Rated Movie:", movies[highest])
 print("Highest Rating:", ratings[highest])
+
+movies.append("RRR")
+ratings.append(9)
+
